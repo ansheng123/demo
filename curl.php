@@ -18,3 +18,5 @@ curl_close($url);
 echo str_replace("百度", "屌丝", $output);
 
 date_default_timezone_set('PRC');
+echo 'git clone success';
+echo 'ooo';
